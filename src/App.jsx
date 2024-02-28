@@ -4,7 +4,7 @@ import CustomRouter from "./router/CustomRouter";
 
 function App() {
   return (
-    <div className="outer-pokedex">
+    <div className="outer-pokedex ">
       {/* <Pokedex /> */}
       <Link to="/">
         <h1 className="Pokedex-heading"> Pokedex</h1>

@@ -16,3 +16,11 @@
   padding:0.5rem 1rem ;
   margin-left: 1rem;
 }
+
+
+@media screen and (max-width: 768px) {
+  .pokemon-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+}

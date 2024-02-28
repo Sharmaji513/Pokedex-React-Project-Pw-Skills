@@ -3,4 +3,8 @@
   flex-direction: column;
 }
 
-
+@media screen and (max-width: 768px) {
+  .pokedex-wrapper {
+    padding: 0 10px; /* Example responsive padding */
+  }
+}

@@ -10,3 +10,10 @@
     padding: 1rem;
    
 }
+
+@media screen and (max-width: 768px) {
+    .pokemon-name-search {
+      width: 100%;
+      max-width: 400px;
+    }
+  }

@@ -1,6 +1,7 @@
 .outer-pokedex {
   display: flex;
   flex-direction: column;
+ 
 }
 
 .Pokedex-heading {
